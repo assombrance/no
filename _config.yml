@@ -1,6 +1,0 @@
-title: Don't go there
-description: Please
-
-markdown: kramdown
-theme: jekyll-theme-tactile
-include: ["_static", "_sources", "_modules"]
